@@ -21,3 +21,6 @@ Angular
 npm install -g @angular/cli
 
 if error as run as admin then -> sudo -i
+
+Upgrade to next version
+update-manager -c
