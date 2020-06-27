@@ -24,3 +24,13 @@ if error as run as admin then -> sudo -i
 
 Upgrade to next version
 update-manager -c
+
+
+
+VLC
+v20 sudo snap install vlc
+sudo apt install vlc
+sudo apt-get install vlc
+
+Remove PPA
+sudo add-apt-repository --remove  ppa:name of the package
