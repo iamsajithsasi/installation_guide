@@ -1,0 +1,16 @@
+SQLITE3 Installation (https://www.sqlite.org/download.html)
+	Precompiled Binaries for Windows
+	Download & Unzip -> sqlite-tools-win32-x86-3350500.zip
+	Copy paste all items to -> C:\Program Files (x86)\sqlite3
+	Open Env:
+	sys
+		New
+			Variable Name -> sqlite3, browse sqlite3 path and update
+		path -> Edit
+			browse sqlite3 path and update
+
+SQLITE Browser (https://sqlitebrowser.org/)
+	Download and install
+	
+MySQL
+	
