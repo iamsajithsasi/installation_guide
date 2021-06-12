@@ -1,5 +1,5 @@
 SQLITE3 Installation (https://www.sqlite.org/download.html)
-	Precompiled Binaries for Windows
+	Precompiled Binaries for Windows (Last/3rd Item)
 	Download & Unzip -> sqlite-tools-win32-x86-3350500.zip
 	Copy paste all items to -> C:\Program Files (x86)\sqlite3
 	Open Env:
