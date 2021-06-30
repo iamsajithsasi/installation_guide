@@ -30,7 +30,8 @@ if error as run as admin then -> sudo -i
 Upgrade to next version
 update-manager -c
 
-
+Chrome
+Download chrome and save file. Double click the saved file and install
 
 VLC
 v20 sudo snap install vlc
