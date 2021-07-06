@@ -24,6 +24,11 @@ sudo apt-get install -y nodejs
 
 Angular
 npm install -g @angular/cli
+-- Permission issue
+sudo npm install -g -f @angular/cli
+
+-- Create app issue: The Schematic workflow failed
+ng new myproject --skip-install
 
 if error as run as admin then -> sudo -i
 
