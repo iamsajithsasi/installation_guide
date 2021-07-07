@@ -45,3 +45,12 @@ sudo apt-get install vlc
 
 ### Remove PPA
 sudo add-apt-repository --remove  ppa:name of the package
+sudo apt remove packagename // apt-get; remove/purge
+which packagename // get bin location
+sudo rm -rf package location
+sudo snap remove yarn
+sudo apt autoremove
+sudo apt list | grep packagename
+sudo snap list
+
+
