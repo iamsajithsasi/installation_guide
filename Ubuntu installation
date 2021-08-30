@@ -56,7 +56,10 @@ sudo apt-get install gdebi-core
 sudo gdebi GitHubDesktop-linux-2.6.3-linux1.deb
 
 ### MySQLubunu
-https://dev.mysql.com/downloads/workbench/
+1. snap install mysql-workbench-community
+error:  An AppArmor policy prevents this....
+sudo snap connect mysql-workbench-community:password-manager-service :password-manager-service
 
+2. https://dev.mysql.com/downloads/workbench/
 
 
