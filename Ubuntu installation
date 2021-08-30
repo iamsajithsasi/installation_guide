@@ -60,6 +60,11 @@ sudo gdebi GitHubDesktop-linux-2.6.3-linux1.deb
 error:  An AppArmor policy prevents this....
 sudo snap connect mysql-workbench-community:password-manager-service :password-manager-service
 
-2. https://dev.mysql.com/downloads/workbench/
+2. Download and install via link: https://dev.mysql.com/downloads/workbench/
+3. Delete all mysql related comp: apt-get remove --purge *mysql\* 
+
+### Sudo commands
+sudo apt-get autoremove
+sudo apt-get autoclean
 
 
