@@ -74,3 +74,7 @@ sudo apt-get autoremove
 sudo apt-get autoclean
 
 
+### nvm
+https://nvm.sh/
+do the curl
+terminal -> source ~/.nvm/nvm.sh
